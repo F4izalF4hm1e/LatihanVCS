@@ -13,6 +13,8 @@ Hal yang perlu diperhatikan untuk penggunaan GIt yaitu :
 1.Instalasi Git
 2.Pembuatan Akun Git
 
-# 1.Instalasi Git
+# 1.Instal Git
 Dowload Git pada website resmi di git-scm.com
+
 ![Gambar 4](screnshoot/4.png)
+download Git sesuai dengan bit yang terdapat di PC atau Leptop (32 atau 64)
