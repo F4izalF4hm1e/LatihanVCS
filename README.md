@@ -110,8 +110,5 @@ _catatan : nama repository sampai tercentang warna hijau_
 
 Terimakasi.
 
-abcd
-
-![Gambar 21](screnshoot/21.png)
 
 
