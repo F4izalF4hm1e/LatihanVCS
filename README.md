@@ -9,7 +9,7 @@ Tugas   : 1 Bahasa Pemrograman
 
 Assalamualaikum Wr Wb
 berikut ini akan di jelaskan cara Instalasi GIT, Pembuatan Akun Git dan membuat Repositori Baru
-Terdapat 2 Hal yang perlu diperhatikan untuk penggunaan GIt yaitu :
+Terdapat 3 Hal yang perlu diperhatikan untuk penggunaan GIt yaitu :
 1. Instalasi Git
 
 2. Pembuatan Akun Git
